@@ -28,7 +28,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hasthik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasthik" /></a></p><br><br>
-
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasthik&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hasthik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasthik&show_icons=true&theme=dark&locale=en" alt="hasthik" /></p>
