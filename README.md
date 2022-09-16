@@ -27,8 +27,5 @@
 
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasthik&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hasthik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasthik&show_icons=true&theme=dark&locale=en" alt="hasthik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasthik&" alt="hasthik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasthik&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hasthik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasthik&show_icons=true&theme=dark&locale=en" alt="hasthik" /></p>
