@@ -3,7 +3,7 @@
 <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasthik&label=Profile%20views&color=0e75b6&style=flat" alt="hasthik" /> </p>
 
-- 🌟 **Associate Software Engineer** at [Shell Market Hub](https://shell.com), focused on delivering scalable and secure B2B e-commerce solutions.
+- 🌟 **Associate Software Engineer** at [Shell](https://shell.com), focused on delivering scalable and secure B2B e-commerce solutions.
 
 - 🚀 I’m currently expanding my expertise in **AI-driven automation, Next.js, and TypeScript**.
 
